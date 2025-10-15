@@ -36,7 +36,7 @@ const Header = () => {
             onClick={() => scrollToSection('home')}
             className="text-2xl font-bold text-white tracking-tight hover:opacity-80 transition-opacity duration-300"
           >
-            STUDIO<span className="text-white/60">EDIT</span>
+            LORA<span className="text-white/60">STUDIO</span>
           </button>
 
           {/* Desktop Navigation */}
