@@ -82,3 +82,6 @@ android-sdk/ -e
 *.env
 *.env.*
 frontend/node_modules/.cache/default-development/2.pack
+
+# Local Netlify folder
+.netlify
